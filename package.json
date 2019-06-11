@@ -1,0 +1,22 @@
+{
+  "name": "shell-parser",
+  "version": "1.0.0",
+  "description": "Parse a command line into arguments similarly to a POSIX shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdhowie/shell-parser.git"
+  },
+  "author": "Chris Howie <me@chrishowie.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdhowie/shell-parser/issues"
+  },
+  "homepage": "https://github.com/cdhowie/shell-parser#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
