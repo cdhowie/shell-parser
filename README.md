@@ -1,5 +1,6 @@
 # shell-parser
 
+[![Build Status](https://img.shields.io/travis/com/cdhowie/shell-parser.svg?style=flat-square)](https://travis-ci.com/cdhowie/shell-parser)
 [![npm](https://img.shields.io/npm/v/shell-parser.svg?style=flat-square)](https://www.npmjs.com/package/shell-parser)
 
 Parses a string similarly to how POSIX shells parse command lines into
